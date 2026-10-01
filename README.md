@@ -1,6 +1,5 @@
 # Math Quiz Game (C++)
 
-![Math Quiz Game](screenshots/Quiz.png)
 A console-based math quiz game written in C++.
 
 ## Features
@@ -19,3 +18,6 @@ Compile with any C++ compiler on Windows (the game uses `system("cls")` and `sys
 
     g++ main.cpp -o quiz
     quiz.exe
+
+## Screenshot
+<img src="screenshots/Quiz.png" width="600">
