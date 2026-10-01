@@ -213,7 +213,7 @@ int readQuestionAnswer()
 void setScreenColor(bool Right)
  {
 	 if(Right)
-		 system("Color 2F");
+		 system("Color 0A");
 	 else
 	 {
 		 cout << "\a";

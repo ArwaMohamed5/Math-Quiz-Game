@@ -1,5 +1,6 @@
 # Math Quiz Game (C++)
 
+![Math Quiz Game](screenshots/Quiz.png)
 A console-based math quiz game written in C++.
 
 ## Features
